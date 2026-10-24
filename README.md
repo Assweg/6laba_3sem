@@ -10,8 +10,8 @@
 
 ## Навигация по семестру
 
-[Доступные лабораторные и практические работы](https://github.com/Assweg/nstu/tree/main/3sem).
+[Доступные лабораторные и практические работы](https://github.com/Assweg/nstu#3-семестр).
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
